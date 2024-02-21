@@ -1,0 +1,134 @@
+.cards1 {
+    display: flex;
+    margin-top: 100px;
+    box-shadow: #212121;
+    box-shadow: inset;
+    border-radius: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+  
+.textdiv {
+    padding: 40px 50px;
+  }
+  .dealsc {
+    color: #353535;
+    font-family: Source Sans Pro;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 112%;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+  }
+  .crispysand {
+    color: var(--Theme-Primary, #FFB30E);
+    font-family: Source Sans Pro;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 112%;
+    padding-top: 0px;
+    margin-top: 0px;
+  }
+  
+.ptag22 {
+    align-self: stretch;
+    color: rgba(97, 97, 97, 0.69);
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+  }
+  .proceeedbotn {
+    color: #FFF;
+    border-radius: 8px;
+    background: var(--yellow-button, linear-gradient(93deg, #FFB800 -47.72%, #FF8A00 136.81%));
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 100%;
+    text-transform: uppercase;
+    border: none;
+    padding: 15px 90px;
+  }
+  .cardfoodimg1 {
+    width: 700px;
+    height: 400px;
+    flex-shrink: 0;
+    border-radius: 10px;
+  }
+
+  .partiess {
+    color: var(--Theme-Gray-800, #424242);
+    font-family: Source Sans Pro;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 110%;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+  }
+  .proceeedbtn {
+    border: none;
+    padding: 15px 80px;
+    background: var(--yellow-button, linear-gradient(93deg, #FFB800 -47.72%, #FF8A00 136.81%));
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 100%;
+    text-transform: uppercase;
+    border-radius: 10px;
+    color: white;
+  }
+  .cards2 {
+    display: flex;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+  
+  .cards3 {
+    display: flex;
+    margin-left: 100px;
+    padding-top: 100px;
+  }
+  .backimdiv {
+    background-image: url(../../assets/image/Image\ \(1123\).png);
+    text-align: center;
+    height: 350px;
+    width: 100%;
+    background-repeat: no-repeat;
+    margin-top: 70px;
+  }
+  
+.pgtahed {
+    color: var(--Theme-White, #FFF);
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 57px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 97.5%;
+    padding-top: 80px;
+  }
+  .Proceedbtn {
+    color: var(--Theme-White, #FFF);
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 100%;
+    text-transform: uppercase;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 8px;
+    background: linear-gradient(93deg, #F17228 -5.63%, #F15E28 100.8%);
+    margin-top: 30px;
+  }    

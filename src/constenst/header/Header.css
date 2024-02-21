@@ -1,0 +1,102 @@
+
+.imghead {
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px 70px;
+  }
+.navbarr {
+    outline: none;
+    align-items: center;
+}
+.foodwaondiv {
+    display: flex;
+    text-align: center;
+  }
+.maskgroupimg {
+    height: 35px;
+    width: 28px;
+    padding-top: 33px;
+}
+.fhead {
+    font-family: source sans pro;
+    font-size: 32px;
+    color: var(--theme-warning, #F17228);
+    padding-left: 10px;
+}
+  .whead {
+    font-family: source sans pro;
+    font-size: 32px;
+    color: var(--theme-primary, #FFB30E);
+  
+}
+  .dilver {
+    padding-right: 20px;
+    padding-left: 50px;
+    font-size: 18px;
+    font-family: Source Sans Pro;
+    padding-top: 25px;
+}
+.locimg {
+    height: 23px;
+    width: 20px;
+    padding-top: 40px;
+}
+.muhpur {
+    font-family: source sans pro;
+    font-size: 18px;
+    padding-top: 24px;
+}
+
+.secbar {
+    display: flex;
+    height: 20px;
+    padding-left: 80px;
+    align-items: center;
+    text-align: center;
+    padding-right: 0px;
+    margin-top: 10px;
+    outline: none;
+    margin-top: 0px;
+}
+.secerc {
+    border: none;
+    color: var(--Theme-Gray-800, #424242);
+    font-family: sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    line-height: 100%;
+    outline: none;
+}
+.button {
+    height: 30px;
+    width: 90px;
+    margin-top: 0px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border: none;
+    background-color: white;
+    border-radius: 8px;
+    background: #FFF;
+    padding: 5px 10px;
+    box-shadow: 0px 20px 40px 0px rgba(255, 174, 0, 0.29), 0px 5px 10px 0px rgba(255, 174, 0, 0.26);
+}
+  
+  .lobutton {
+    padding-left: 10px;
+    color: #FFB30E;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+}
+.navbar {
+    padding-top: 20px;
+    display: flex;
+}
+  
+  

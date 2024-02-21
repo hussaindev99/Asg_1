@@ -1,0 +1,51 @@
+.serrchfodd {
+    padding-top: 100px;
+  }
+  .butttoin {
+    border: none;
+    background: #FEFAF1;
+    color: #FFBA26;
+    font-family: Source Sans Pro;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+    margin-top: 100px;
+  }
+  .butttoin1 {
+    margin-top: 60px;
+    border: none;
+    background: #FEFAF1;
+    height: 45px;
+    width: 45px;
+    color: #FFF;
+    text-align: center;
+    font-family: Font Awesome 5 Free;
+    font-size: 33px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 120%;
+    background: #FFBA26;
+    border-radius: 50%;
+    align-items: center;
+    padding-bottom: 10px;
+  }
+  
+  .butttoin2 {
+    margin-top: 60px;
+    border: none;
+    background: #FEFAF1;
+    color: white;
+    height: 45px;
+    width: 45px;
+    text-align: center;
+    font-family: Font Awesome 5 Free;
+    font-size: 33px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 120%;
+    background: #FFBA26;
+    border-radius: 50%;
+    align-items: center;
+    padding-bottom: 10px;
+  }

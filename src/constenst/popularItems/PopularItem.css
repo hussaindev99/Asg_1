@@ -1,0 +1,99 @@
+.papularitem {
+    padding-top: 100px;
+    color: var(--Theme-Gray-900, #212121);
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 43px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 112%;
+}
+
+.maindiv2 {
+    display: flex;
+    padding-top: 50px;
+    justify-content: center;
+}
+
+.arowbutton {
+    border: none;
+    height: 45px;
+    width: 45px;
+    color: #FFF;
+    background: #FFBA26;
+    text-align: center;
+    font-family: Font Awesome 5 Free;
+    font-size: 33px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 120%;
+    border-radius: 50%;
+    padding-bottom: 10px;
+    margin-top: 100px;
+    margin-right: 20px;
+}
+
+
+.Rectangleimgas {
+    border-radius: 20px;
+    width: 220px;
+    height: 200px;
+    padding: 10px;
+}
+
+.Rectanglemap {
+    width: 18px;
+    height: 24px;
+    align-items: center;
+    padding-top: 0px;
+    width: 18px;
+    height: 24px;
+}
+.llimgrup {
+    padding: 0px;
+    margin: 0px;
+    color: var(--Theme-Gray-900, #212121);
+    font-family: Source Sans Pro;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    padding-left: 10px;
+  }
+  .allburger {
+    padding: 0px;
+    margin: 0px;
+    color: var(--Theme-Gray-800, #424242);
+    font-family: Source Sans Pro;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    padding-left: 10px;
+  }
+
+  .allmapimg {
+    padding: 0px;
+    margin: 0px;
+    color: var(--Theme-Primary, #FFB30E);
+    font-family: Source Sans Pro;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%;
+    padding-left: 5px;
+  }
+  .orderbuttoin {
+    border: none;
+    color: var(--Theme-White, #FFF);
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+    background-color: #F17228;
+    padding: 15px 70px;
+    margin-top: 20px;
+    border-radius: 5px;
+  }

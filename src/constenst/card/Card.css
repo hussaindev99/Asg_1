@@ -1,0 +1,99 @@
+
+.cardContiner {
+    display: flex;
+    margin: 50px 70px;
+  }
+  .card1 {
+    background-image: url(../../assets/image/food.png);
+    width: 357px;
+    height: 250px;
+    margin-top: 50px;
+    margin-right: 20px;
+    border-radius: 20px;
+  }
+  
+  .crdin {
+    display: flex;
+    width: 100px;
+    height: 62px;
+    flex-direction: row;
+    justify-content: center;
+    color: var(--Theme-White, #FFF);
+    margin-top: 188px;
+    align-items: center;
+    padding-left: 10px;
+    border-radius: 0px 32px 0px 20px;
+    background: var(--Theme-Primary, #FFB30E);
+    text-align: center;
+  }
+  .off20 {
+    font-family: Source Sans Pro;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 106%;
+    padding: 0px;
+    margin: 0px;
+  }
+  
+  .of {
+    font-family: Source Sans Pro;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 106%;
+    padding: 0px;
+    margin: 0px;
+  }
+
+  .gagesptag {
+    color: var(--Theme-Gray-800, #424242);
+    font-family: Source Sans Pro;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    padding-top: 20px;
+  }
+  .daysbutton {
+    border: none;
+    font-family: sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    height: 40px;
+    width: 210px;
+    border-radius: 8px;
+    background: rgba(241, 114, 40, 0.20);
+  }
+
+
+  .card2 {
+    background-image: url(../../assets/image/food1.png);
+    width: 357px;
+    height: 250px;
+    margin-top: 50px;
+    margin-right: 20px;
+    border-radius: 20px;
+  }
+  
+  .card3 {
+    background-image: url(../../assets/image/food2.png);
+    width: 357px;
+    height: 250px;
+    margin-top: 50px;
+    margin-right: 20px;
+    border-radius: 20px;
+  }
+  
+  .card4 {
+    background-image: url(../../assets/image/food3.png);
+    width: 357px;
+    height: 250px;
+    margin-top: 50px;
+    margin-right: 20px;
+    border-radius: 20px;
+    color: white;
+  }
+          

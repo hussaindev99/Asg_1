@@ -1,0 +1,118 @@
+.stp1 {
+    background-image: url("../../assets/image/Group\ 1\ 1.png");
+    height: 635px;
+    width: 100%;
+    margin-top: 0px;
+  }
+  .youstart {
+    color: white;
+    margin-left: 50px;
+    padding-top: 100px;
+    font-size: 70px;
+}
+.youstar {
+    padding-left: 50px;
+  }
+  .img122 {
+    display: flex;
+    align-items: center;
+  }
+  .stp2 {
+    background-color: white;
+    border-radius: 20px;
+    width: 650px;
+    height: 200px;
+    margin: 50px;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding: 20px;
+  }
+  
+  .stp3 {
+    display: flex;
+  }
+
+  .bikebiotn {
+    display: flex;
+    height: 30px;
+    padding: 2px 20px;
+    border: none;
+    border-radius: 8px;
+    background: rgba(241, 114, 40, 0.10);
+    align-items: center;
+    font-size: 16px;
+  }
+  .bikeimg {
+    padding-top: 5px;
+    padding-right: 5px;
+  }
+  
+  .bikebiotn1 {
+    display: flex;
+    height: 30px;
+    width: 60px;
+    padding: 2px 20px;
+    border: none;
+    font-family: sans-serif;
+    background-color: white;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 700px;
+  }
+  
+  .lokeimg {
+    padding-right: 5px;
+    padding-top: 3px;
+  }
+  .hrlineblack{
+    margin-top: 50px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+  }
+  
+.sececsh {
+    padding-top: 30px;
+    display: flex;
+  }
+  .inpuandimg {
+    display: flex;
+    border: 1px solid whitesmoke;
+    padding: 8px;
+  }
+  .image11 {
+    padding-right: 10px;
+    padding-top: 3px;
+    text-align: center;
+    padding-bottom: 5px;
+  }
+  .inpu11 {
+    height: 30px;
+    width: 400px;
+    margin-right: 20px;
+    border: none;
+    outline: none;
+  }
+  .imgbuttni {
+    display: flex;
+    height: 50px;
+    border: none;
+    width: 155px;
+    color: white;
+    font-size: 18px;
+    border-radius: 8px;
+    background-color: #FFB30E;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-items: center;
+    padding: 5px 20px;
+    margin-left: 10px;
+  }
+  .buttonimg {
+    padding-right: 10px;
+  }
+  .foodimg {
+    width: 504px;
+    height: 360px;
+    margin-bottom: 20px;
+    align-items: center;
+  }
+                      
